@@ -6,9 +6,9 @@ This application is deployed on: https://grapgql-react-rickandmorty-chris49.netl
 
 ## Project Screen Shots
 
-<img src="https://github.com/chrisnumber49/GrapgQL-React-RickandMorty/blob/master/screen%20shot/demo1.png" width="600" >
-<img src="https://github.com/chrisnumber49/GrapgQL-React-RickandMorty/blob/master/screen%20shot/demo2.png" width="600" >
-<img src="https://github.com/chrisnumber49/GrapgQL-React-RickandMorty/blob/master/screen%20shot/demo3.png" width="600" >
+<img src="https://github.com/chrisnumber49/GraphQL-React-RickandMorty/blob/master/screen%20shot/demo1.png" width="600" >
+<img src="https://github.com/chrisnumber49/GraphQL-React-RickandMorty/blob/master/screen%20shot/demo2.png" width="600" >
+<img src="https://github.com/chrisnumber49/GraphQL-React-RickandMorty/blob/master/screen%20shot/demo3.png" width="600" >
 
 ## Installation and Setup Instructions
 
