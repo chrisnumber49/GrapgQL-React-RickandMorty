@@ -2,7 +2,7 @@
 
 An application built with React, Bootstrap, and CSS which is used to...
 
-This application is deployed on: https://grapgql-react-rickandmorty-chris49.netlify.app/
+This application is deployed on: https://graphql-react-rickandmorty-chris49.netlify.app/
 
 ## Project Screen Shots
 
