@@ -4,6 +4,8 @@ An application built with React, Bootstrap, JavaScript, CSS and the Rick and Mor
 
 This application is deployed on: https://graphql-react-rickandmorty-chris49.netlify.app/
 
+Rick and Morty GraphQL API: https://rickandmortyapi.com/graphql
+
 ## Project Screen Shots
 
 <img src="https://github.com/chrisnumber49/GraphQL-React-RickandMorty/blob/master/screen%20shot/demo1.png" width="600" >
