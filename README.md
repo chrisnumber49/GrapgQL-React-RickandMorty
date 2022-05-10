@@ -22,6 +22,6 @@ To Visit App: `localhost:3000/`
 
 ## Reflection
 
-This was my first side project of learning GraphQL Apollo Client with React... I started this project by using the command `create-react-app` to create the boilerplate, then several additional library `Bootstrap`, `react-router-dom`, and... were installed during the development in this project.
+This was my first side project of learning GraphQL with Apollo Client and React. In this project, I built an interface to list all characters in Rick and Morty and let users check character's appearance episodes in the show. I started this project by using the command `create-react-app` to create the boilerplate, then several additional library `Bootstrap`, `react-router-dom`, `GraphQL` and `Apollo Client` were installed during the development in this project.
 
-The technologies implemented in this project include React, uuid, React Router, Bootstrap, ... and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about the basic concept of...
+The technologies implemented in this project include React, React Router, Bootstrap, GraphQL, and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about the basic concept of...
