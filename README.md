@@ -1,6 +1,6 @@
 # GraphQL React Rick and Morty
 
-An application built with React, Bootstrap, and CSS which is used to...
+An application built with React, Bootstrap, JavaScript, CSS and the Rick and Morty GraphQL API which shows the information of every characters in Rick and Morty.
 
 This application is deployed on: https://graphql-react-rickandmorty-chris49.netlify.app/
 
