@@ -1,8 +1,6 @@
 # GraphQL React Rick and Morty
 
-An application built with React, Bootstrap, JavaScript, CSS and the Rick and Morty GraphQL API which shows the information of every characters in Rick and Morty.
-
-This application is deployed on: https://graphql-react-rickandmorty-chris49.netlify.app/
+An application built with React, Bootstrap, JavaScript, CSS, and the Rick and Morty GraphQL API which shows the information of every character in Rick and Morty.
 
 Rick and Morty GraphQL API: https://rickandmortyapi.com/graphql
 
@@ -24,6 +22,6 @@ To Visit App: `localhost:3000/`
 
 ## Reflection
 
-This is my first side project of learning GraphQL with Apollo Client and React. In this project, I built an interface to list all characters in Rick and Morty and let users check character's appearance episodes in the show. I started this project by using the command `create-react-app` to create the boilerplate, then several additional library `Bootstrap`, `react-router-dom`, `GraphQL` and `Apollo Client` were installed during the development in this project.
+This is my first side project of learning GraphQL with Apollo Client and React. In this project, I built an interface to list all characters in Rick and Morty and let users check character's appearance in episodes in the show. I started this project by using the command `create-react-app` to create the boilerplate, then several additional libraries `Bootstrap`, `react-router-dom`, `GraphQL`, and `Apollo Client` was installed during the development of this project.
 
 The technologies implemented in this project include React, React Router, Bootstrap, GraphQL, and a significant amount of VanillaJS, JSX, and CSS. Through this side project, I learned about the basic concept of GraphQL, what's the difference between GraphQL and REST API, and lastly the GraphQL Hooks useQuery and useLazyQuery.
